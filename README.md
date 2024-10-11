@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me erissamet36@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he vallaa.
+- ⚡ Fun fact: one day everything
 
 <!---
 samobeyy/samobeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
